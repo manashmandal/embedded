@@ -220,4 +220,4 @@ pip-log.txt
 # Jekyll
 ###############
 
-_site
+_site/
