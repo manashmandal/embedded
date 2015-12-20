@@ -1,3 +1,4 @@
 markdown: redcarpet
 baseurl: /embedded
 exclude: ['README.md']
+highlighter: rouge
